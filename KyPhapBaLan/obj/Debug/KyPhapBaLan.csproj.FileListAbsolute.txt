@@ -1,0 +1,6 @@
+E:\BaiTap\C#\KyPhapBaLan\KyPhapBaLan\bin\Debug\KyPhapBaLan.exe.config
+E:\BaiTap\C#\KyPhapBaLan\KyPhapBaLan\bin\Debug\KyPhapBaLan.exe
+E:\BaiTap\C#\KyPhapBaLan\KyPhapBaLan\bin\Debug\KyPhapBaLan.pdb
+E:\BaiTap\C#\KyPhapBaLan\KyPhapBaLan\obj\Debug\KyPhapBaLan.csprojResolveAssemblyReference.cache
+E:\BaiTap\C#\KyPhapBaLan\KyPhapBaLan\obj\Debug\KyPhapBaLan.exe
+E:\BaiTap\C#\KyPhapBaLan\KyPhapBaLan\obj\Debug\KyPhapBaLan.pdb
